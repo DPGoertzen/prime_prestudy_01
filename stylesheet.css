@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "comics";
+    src: url('LDFComicSans.ttf');
+	font-style: normal;
+	font-weight: normal;
+}
+
+body {
+	background-image: url(shia.gif);
+	background-color: teal;
+
+}
+
+h1 {
+	font-family: comics, Arial;
+	font-size: 65px;
+	color: ivory;
+	text-align: center;
+}
